@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: Slope Blog
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
